@@ -6,7 +6,7 @@ export const Bio = {
       "UI/UX Designer"
     ],
     description:
-      "Hello! I am a Front-End/WordPress Developer with a Bachelor's degree in Educational Electrical Engineering. My certifications from Coursera and Udemy, including Meta and Google UX/UI design, have solidified my skills in the tech industry. At CoreConcepts, I designed and developed websites using WordPress, Figma, HTML, CSS, JavaScript, and React, achieving a 35% increase in conversion rates and a 20% reduction in bounce rates. Additionally, I am a Junior Penetration Tester with a passion for cybersecurity and ethical hacking. Let's connect to explore opportunities and share our passion for technology and design.",
+      "Hello! I am a Front-End/WordPress Developer with a Bachelor's degree in Educational Electrical Engineering. My certifications from Coursera and Udemy, including Meta and Google UX/UI design, have solidified my skills in the tech industry. At CoreConcepts, I designed and developed websites using WordPress. Additionally, I am a Junior Penetration Tester with a passion for cybersecurity and ethical hacking. Let's connect to explore opportunities and share our passion for technology and design.",
     github: "https://github.com/StevePapasot",
     resume:
       "https://acrobat.adobe.com/id/urn:aaid:sc:EU:c332f4f7-8c83-4f4a-8717-9828b62542ea",
@@ -125,11 +125,6 @@ export const Bio = {
             "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
         },
         {
-          name: "Postman",
-          image:
-            "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
-        },
-        {
           name: "Adobe XD",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/120px-Adobe_XD_CC_icon.svg.png",
@@ -162,7 +157,7 @@ export const Bio = {
     },
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+      img: "https://dcassetcdn.com/design_img/931138/124720/124720_5303810_931138_image.jpg",
       role: "Tutoring",
       company: "Remote",
       date: "June 2021 - Present",
@@ -185,6 +180,46 @@ export const Bio = {
       grade: "6.9 CGPA",
       desc: "I have studied Educational Electrical Engineering.",
       degree: "Bachelor of Electrical Engineering",
+    },
+    {
+      id: 1,
+      img: "https://media.licdn.com/dms/image/D4E0BAQG0KOJuostucw/company-logo_200_200/0/1712309984584/tryhackme_logo?e=1725494400&v=beta&t=k8oh73tHidZyFPATcuN3U3lTprvZFNB6G9fhVZujlJU",
+      school: "CompTIA PenTest+",
+      date: "May 2024",
+      desc: "Cred-ID : THM-EPTKEQJ5NE",
+      degree: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EPTKEQJ5NE.png",
+    },
+    {
+      id: 2,
+      img: "https://media.licdn.com/dms/image/D4E0BAQG0KOJuostucw/company-logo_200_200/0/1712309984584/tryhackme_logo?e=1725494400&v=beta&t=k8oh73tHidZyFPATcuN3U3lTprvZFNB6G9fhVZujlJU",
+      school: "Jr Penetration Tester",
+      date: "Mar 2024",
+      desc: "Cred-ID : THM-OG45BUFFSN",
+      degree: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OG45BUFFSN.png",
+    },
+    {
+      id: 3,
+      img: "https://mwcc.edu/wp-content/uploads/2020/09/Google-IT-Professional-Certificate-Logo-580x353.png",
+      school: " Google IT Support Specialization",
+      date: "August 2023",
+      desc: "Cred-ID : 5274VQBKYUNT",
+      degree: "https://www.coursera.org/account/accomplishments/specialization/certificate/5274VQBKYUNT",
+    },
+    {
+      id: 4,
+      img: "https://static.vecteezy.com/system/resources/previews/012/871/381/non_2x/meta-brand-icon-illustration-top-tech-company-logotype-free-png.png",
+      school: "Meta Front-End Developer",
+      date: "Apr 23",
+      desc: "Cred-ID : MNHZRUNEZ6Z7",
+      degree: "https://www.coursera.org/account/accomplishments/specialization/certificate/MNHZRUNEZ6Z7",
+    },
+    {
+      id: 5,
+      img: "https://149396518.v2.pressablecdn.com/wp-content/uploads/2020/10/Google_logo-1.png",
+      school: "Google UX Design",
+      date: "August 2022",
+      desc: "Cred-ID : 4AQ8KNU8NDEK",
+      degree: "https://www.coursera.org/account/accomplishments/specialization/certificate/4AQ8KNU8NDEK",
     },
   ];
   
