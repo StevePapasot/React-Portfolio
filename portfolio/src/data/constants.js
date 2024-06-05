@@ -186,7 +186,13 @@ export const Bio = {
       img: "https://media.licdn.com/dms/image/D4E0BAQG0KOJuostucw/company-logo_200_200/0/1712309984584/tryhackme_logo?e=1725494400&v=beta&t=k8oh73tHidZyFPATcuN3U3lTprvZFNB6G9fhVZujlJU",
       school: "CompTIA PenTest+",
       date: "May 2024",
-      desc: "Cred-ID : THM-EPTKEQJ5NE",
+      desc: `This PenTest+ pathway allows individuals to practice the majority of practical skills required for the CompTIA PenTest+ exam. In this you will learn about:
+                1.Industry standard penetration testing tools.
+                2.Identifying and exploiting different network services.
+                3.Exploiting web applications through today’s most common vulnerabilities.
+                4.Understanding Windows active directory and attacking Kerberos.
+                5.Post exploitation techniques (with Powerview, Bloodhound and Mimikatz).
+                  Cred-ID : THM-EPTKEQJ5NE`,
       degree: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EPTKEQJ5NE.png",
     },
     {
@@ -194,15 +200,16 @@ export const Bio = {
       img: "https://media.licdn.com/dms/image/D4E0BAQG0KOJuostucw/company-logo_200_200/0/1712309984584/tryhackme_logo?e=1725494400&v=beta&t=k8oh73tHidZyFPATcuN3U3lTprvZFNB6G9fhVZujlJU",
       school: "Jr Penetration Tester",
       date: "Mar 2024",
-      desc: "Cred-ID : THM-OG45BUFFSN",
+      desc: `This learning path covers the core technical skills that will allow you to succeed as a junior penetration tester. Upon completing this path, you will have the practical skills necessary to perform security assessments against web applications and enterprise infrastructure.
+      Cred-ID : THM-OG45BUFFSN`,
       degree: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OG45BUFFSN.png",
     },
     {
       id: 3,
       img: "https://mwcc.edu/wp-content/uploads/2020/09/Google-IT-Professional-Certificate-Logo-580x353.png",
-      school: " Google IT Support Specialization",
+      school: " Google IT Support Professional",
       date: "August 2023",
-      desc: "Cred-ID : 5274VQBKYUNT",
+      desc: `Get on the fast track to a career in IT. In this certificate program, you'll learn in-demand skills at your own pace, no degree or experience required.  Cred-ID : 5274VQBKYUNT`,
       degree: "https://www.coursera.org/account/accomplishments/specialization/certificate/5274VQBKYUNT",
     },
     {
@@ -210,7 +217,7 @@ export const Bio = {
       img: "https://static.vecteezy.com/system/resources/previews/012/871/381/non_2x/meta-brand-icon-illustration-top-tech-company-logotype-free-png.png",
       school: "Meta Front-End Developer",
       date: "Apr 23",
-      desc: "Cred-ID : MNHZRUNEZ6Z7",
+      desc: `Launch your career as a front-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started. Cred-ID : MNHZRUNEZ6Z7`,
       degree: "https://www.coursera.org/account/accomplishments/specialization/certificate/MNHZRUNEZ6Z7",
     },
     {
@@ -218,7 +225,7 @@ export const Bio = {
       img: "https://149396518.v2.pressablecdn.com/wp-content/uploads/2020/10/Google_logo-1.png",
       school: "Google UX Design",
       date: "August 2022",
-      desc: "Cred-ID : 4AQ8KNU8NDEK",
+      desc: "Get on the fast track to a career in UX design. In this certificate program, you'll learn in-demand skills at your own pace, no degree or experience required. Cred-ID : 4AQ8KNU8NDEK",
       degree: "https://www.coursera.org/account/accomplishments/specialization/certificate/4AQ8KNU8NDEK",
     },
   ];
