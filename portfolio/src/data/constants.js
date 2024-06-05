@@ -297,33 +297,33 @@ export const Bio = {
   //     github: "https://github.com/rishavchanda/Project-Management-App",
   //     webapp: "https://vexa-app.netlify.app/",
   //   },
-  //   {
-  //     id: 2,
-  //     title: "Brain Tumor Detection",
-  //     date: "Jan 2023 - Mar 2023",
-  //     description:
-  //       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-  //     image:
-  //       "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-  //     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //     category: "machine learning",
-  //     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-  //     webapp: "https://brain-tumor.netlify.app/",
-  //     member: [
-  //       {
-  //         name: "Rishav Chanda",
-  //         img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //         linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //         github: "https://github.com/rishavchanda/",
-  //       },
-  //       {
-  //         name: "Upasana Chaudhuri",
-  //         img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //         linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //         github: "https://github.com/upasana0710",
-  //       },
-  //     ],
-  //   },
+    {
+      id: 2,
+      title: "Portscanner",
+      date: "June 2024",
+      description:
+        "Having as passions programming and ethical I couldn't stop creating basic tools that help me in my penetration testing using mostly Python.",
+      image:
+        "https://github.com/StevePapasot/Hacking-Tools/assets/75527414/fa097005-69b9-414d-abbc-a9de87207843",
+      tags: ["Python", "nmap", "PenTesting"],
+      category: "machine learning",
+      github: "https://github.com/StevePapasot/Hacking-Tools/blob/main/PortScanner/portscanner.py",
+      webapp: "https://github.com/StevePapasot/Hacking-Tools/blob/main/PortScanner/portscanner.py",
+      // member: [
+      //   {
+      //     name: "Rishav Chanda",
+      //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+      //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+      //     github: "https://github.com/rishavchanda/",
+      //   },
+      //   {
+      //     name: "Upasana Chaudhuri",
+      //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+      //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+      //     github: "https://github.com/upasana0710",
+      //   },
+      // ],
+    },
   //   {
   //     id: 3,
   //     title: "Buckoid",
