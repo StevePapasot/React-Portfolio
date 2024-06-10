@@ -370,7 +370,7 @@ export const Bio = {
       description:
         "Having as passions programming and ethical I couldn't stop creating basic tools that help me in my penetration testing using mostly Python. In this repository you can find a bruteforce program written in Python!",
       image:
-        "https://github.com/StevePapasot/React-Portfolio/blob/main/portfolio/src/images/brute.png",
+        "https://github.com/StevePapasot/React-Portfolio/blob/main/portfolio/src/images/brute.png?raw=true",
       tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
       category: "web app",
       github: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/BruteForce",
