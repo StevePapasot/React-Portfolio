@@ -9,7 +9,7 @@ export const Bio = {
       "Hello! I am a Front-End/WordPress Developer with a Bachelor's degree in Educational Electrical Engineering. My certifications from Coursera and Udemy, including Meta and Google UX/UI design, have solidified my skills in the tech industry. At CoreConcepts, I designed and developed websites using WordPress. Additionally, I am a Junior Penetration Tester with a passion for cybersecurity and ethical hacking. Let's connect to explore opportunities and share our passion for technology and design.",
     github: "https://github.com/StevePapasot",
     resume:
-      "https://acrobat.adobe.com/id/urn:aaid:sc:EU:c332f4f7-8c83-4f4a-8717-9828b62542ea",
+      "file:///C:/Users/steve/OneDrive/CVs/CV.pdf",
     linkedin: "https://www.linkedin.com/in/stavros-papasotiropoulos-b35302200/",
     twitter: "https://x.com/StevenPapasot",
     insta: "https://www.instagram.com/stavros_papasotiropoulos/",
