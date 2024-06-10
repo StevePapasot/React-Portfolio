@@ -336,6 +336,19 @@ export const Bio = {
       github: "",
       webapp: "",
     },
+    {
+      id: 4,
+      title: "Backdoor",
+      date: "June 2024",
+      description:
+        "Having as passions programming and ethical I couldn't stop creating basic tools that help me in my penetration testing using mostly Python. In this repository you can find a backdoor program written in Python!",
+      image:
+        "https://github.com/StevePapasot/React-Portfolio/blob/main/portfolio/src/images/backdoor.png?raw=true",
+      tags: ["Python", "nmap", "PenTesting"],
+      category: "machine learning",
+      github: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/Backdoor%20Project",
+      webapp: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/Backdoor%20Project",
+    },
   //   {
   //     id: 10,
   //     title: "Job Finding App",
@@ -350,18 +363,6 @@ export const Bio = {
   //     webapp: "https://github.com/rishavchanda/Job-finder-App",
   //   },
   //   {
-  //     id: 4,
-  //     title: "Whatsapp Clone",
-  //     date: "Jul 2021",
-  //     description:
-  //       "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-  //     image:
-  //       "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-  //     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //     category: "web app",
-  //     github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-  //     webapp: "https://whatsapp-clone-rishav.web.app",
-  //   },
   //   {
   //     id: 5,
   //     title: "Todo Web App",
