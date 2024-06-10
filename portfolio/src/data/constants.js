@@ -9,7 +9,7 @@ export const Bio = {
       "Hello! I am a Front-End/WordPress Developer with a Bachelor's degree in Educational Electrical Engineering. My certifications from Coursera and Udemy, including Meta and Google UX/UI design, have solidified my skills in the tech industry. At CoreConcepts, I designed and developed websites using WordPress. Additionally, I am a Junior Penetration Tester with a passion for cybersecurity and ethical hacking. Let's connect to explore opportunities and share our passion for technology and design.",
     github: "https://github.com/StevePapasot",
     resume:
-      "https://acrobat.adobe.com/id/urn:aaid:sc:EU:c332f4f7-8c83-4f4a-8717-9828b62542ea",
+      "file:///C:/Users/steve/OneDrive/CVs/CV.pdf",
     linkedin: "https://www.linkedin.com/in/stavros-papasotiropoulos-b35302200/",
     twitter: "https://x.com/StevenPapasot",
     insta: "https://www.instagram.com/stavros_papasotiropoulos/",
@@ -336,6 +336,19 @@ export const Bio = {
       github: "",
       webapp: "",
     },
+    {
+      id: 4,
+      title: "Backdoor",
+      date: "June 2024",
+      description:
+        "Having as passions programming and ethical I couldn't stop creating basic tools that help me in my penetration testing using mostly Python. In this repository you can find a backdoor program written in Python!",
+      image:
+        "https://github.com/StevePapasot/React-Portfolio/blob/main/portfolio/src/images/backdoor.png?raw=true",
+      tags: ["Python", "nmap", "PenTesting"],
+      category: "machine learning",
+      github: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/Backdoor%20Project",
+      webapp: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/Backdoor%20Project",
+    },
   //   {
   //     id: 10,
   //     title: "Job Finding App",
@@ -350,31 +363,19 @@ export const Bio = {
   //     webapp: "https://github.com/rishavchanda/Job-finder-App",
   //   },
   //   {
-  //     id: 4,
-  //     title: "Whatsapp Clone",
-  //     date: "Jul 2021",
-  //     description:
-  //       "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-  //     image:
-  //       "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-  //     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //     category: "web app",
-  //     github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-  //     webapp: "https://whatsapp-clone-rishav.web.app",
-  //   },
-  //   {
-  //     id: 5,
-  //     title: "Todo Web App",
-  //     date: "Jun 2021",
-  //     description:
-  //       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-  //     image:
-  //       "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-  //     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-  //     category: "web app",
-  //     github: "https://github.com/rishavchanda/Todo-Web-App",
-  //     webapp: "https://rishav-react-todo.netlify.app/",
-  //   },
+    {
+      id: 5,
+      title: "Bruteforce",
+      date: "Jun 2024",
+      description:
+        "Having as passions programming and ethical I couldn't stop creating basic tools that help me in my penetration testing using mostly Python. In this repository you can find a bruteforce program written in Python!",
+      image:
+        "https://github.com/StevePapasot/React-Portfolio/blob/main/portfolio/src/images/brute.png?raw=true",
+      tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+      category: "web app",
+      github: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/BruteForce",
+      webapp: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/BruteForce",
+    },
   //   {
   //     id: 6,
   //     title: "Breaking Bad",
