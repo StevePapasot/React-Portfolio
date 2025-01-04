@@ -332,7 +332,7 @@ export const Bio = {
         "In today's digital era, a strong online presence is crucial for any business, especially for creative industries like photography. This case study project involved redesigning the website for a prominent photography agency, leveraging the power of WordPress to create a visually stunning and highly functional platform. The website has modern aesthetics, user-friendly navigation, and effective client engagement tools. I have highlighted their portfolio with high-resolution, fast-loading images and an elegant, clean layout. The result is a sleek, responsive website that not only showcases the agency's stunning work but also attracts and converts potential clients, setting a new standard for their online presence. NOTE: This is a case study website IT IS NOT LIVE on the web. If you are interested in WordPress development contact me.",
       image:"https://github.com/StevePapasot/React-Portfolio/blob/main/portfolio/src/images/wordpress.png?raw=true",
       tags: ["WordPress" , "Web design"],
-      category: "android app",
+      category: "web app",
       github: "",
       webapp: "",
     },
