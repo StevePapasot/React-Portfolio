@@ -178,7 +178,7 @@ export const Bio = {
       school: "ASPAITE",
       date: "Sep 2018 - Sep 2025",
       grade: "6.9 CGPA",
-      desc: "I have studied Educational Electrical Engineering.",
+      desc: "I have completed my studies Educational Electrical Engineering From ASPAITE in Athens, Greece.",
       degree: "Bachelor of Electrical Engineering",
     },
     {
@@ -228,6 +228,22 @@ export const Bio = {
       desc: "Get on the fast track to a career in UX design. In this certificate program, you'll learn in-demand skills at your own pace, no degree or experience required. Cred-ID : 4AQ8KNU8NDEK",
       degree: "https://www.coursera.org/account/accomplishments/specialization/certificate/4AQ8KNU8NDEK",
     },
+    {
+      id: 6,
+      img: "https://udemy-certificate.s3.amazonaws.com/image/UC-4ada407c-d09e-4f4e-b030-6b8dac79d858.jpg?v=1711695206000",
+      school: "The Complete JavaScript Course 2024: From Zero to Expert!",
+      date: "March 2024",
+      desc: "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+      degree: "https://udemy-certificate.s3.amazonaws.com/image/UC-4ada407c-d09e-4f4e-b030-6b8dac79d858.jpg?v=1711695206000",
+    },
+    // {
+    //   id: 7,
+    //   img: "https://udemy-certificate.s3.amazonaws.com/image/UC-4ada407c-d09e-4f4e-b030-6b8dac79d858.jpg?v=1711695206000",
+    //   school: "The Complete JavaScript Course 2024: From Zero to Expert!",
+    //   date: "March 2024",
+    //   desc: "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+    //   degree: "https://udemy-certificate.s3.amazonaws.com/image/UC-4ada407c-d09e-4f4e-b030-6b8dac79d858.jpg?v=1711695206000",
+    // },
   ];
   
   export const projects = [
