@@ -183,7 +183,7 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://media.licdn.com/dms/image/D4E0BAQG0KOJuostucw/company-logo_200_200/0/1712309984584/tryhackme_logo?e=1725494400&v=beta&t=k8oh73tHidZyFPATcuN3U3lTprvZFNB6G9fhVZujlJU",
+      img: "https://tryhackme.com/r/static/media/cert.f1e0db8b1fe38de26c94.png",
       school: "CompTIA PenTest+",
       date: "May 2024",
       desc: `This PenTest+ pathway allows individuals to practice the majority of practical skills required for the CompTIA PenTest+ exam. In this you will learn about:
@@ -197,7 +197,7 @@ export const Bio = {
     },
     {
       id: 2,
-      img: "https://media.licdn.com/dms/image/D4E0BAQG0KOJuostucw/company-logo_200_200/0/1712309984584/tryhackme_logo?e=1725494400&v=beta&t=k8oh73tHidZyFPATcuN3U3lTprvZFNB6G9fhVZujlJU",
+      img: "https://tryhackme.com/r/static/media/cert.f1e0db8b1fe38de26c94.png",
       school: "Jr Penetration Tester",
       date: "Mar 2024",
       desc: `This learning path covers the core technical skills that will allow you to succeed as a junior penetration tester. Upon completing this path, you will have the practical skills necessary to perform security assessments against web applications and enterprise infrastructure.
