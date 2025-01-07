@@ -388,7 +388,7 @@ export const Bio = {
       date: "Feb 2024",
       description:
         "A Matlab/Simulink simulation that shows how a DC Motor works. I have combined the theory with the modeling of a simulation through Simulink.",
-      image:"file:///C:/Users/steve/OneDrive/PROGRAMMING/React-Portfolio/portfolio/src/images/dcmotor.jpg",
+      image:"https://github.com/StevePapasot/React-Portfolio/blob/main/portfolio/src/images/dcmotor.jpg?raw=true",
       tags: ["MATLAB", "SIMULINK"],
       category: "android app",
       github: "https://1drv.ms/i/s!AjD0pJXLc9H9u6EDrnQ8T6DQASGRKg?e=Vkrwc3"
@@ -413,7 +413,7 @@ export const Bio = {
       description:
         "A simple PID controller and a simulation of an adaptive cruise control system.",
       image:
-        "file:///C:/Users/steve/OneDrive/PROGRAMMING/React-Portfolio/portfolio/src/images/Tune.jpg",
+        "https://github.com/StevePapasot/React-Portfolio/blob/main/portfolio/src/images/Tune.jpg?raw=true",
       tags: ["MATLAB", "SIMULINK"],
       category: "android app",
       github: "file:///C:/Users/steve/AppData/Local/Temp/mlreportgen/webview/webview.html",
