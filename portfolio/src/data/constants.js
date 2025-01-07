@@ -3,7 +3,7 @@ export const Bio = {
     roles: [
       "Front-End Developer",
       "jr Penetration Tester",
-      "UI/UX Designer"
+      "Electrical Engineer"
     ],
     description:
       "Hello! I am a 25-year-old Front-End Developer with a Bachelor's in Educational Electrical Engineering, passionate about technology and innovation. I hold certifications like Meta's Front-End Development and Google's UX/UI Design, showcasing my commitment to mastering my craft. At CoreConcepts, I designed dynamic websites using WordPress, Figma, HTML, CSS, JavaScript, SQL, and React, consistently exceeding client expectations with user-focused designs. I'm also fascinated by cybersecurity, particularly ethical hacking and penetration testing. Earning the eCPPT certification honed my ability to identify and mitigate security vulnerabilities. With experience in tutoring programming and ethical hacking, I enjoy inspiring others while contributing to advancing technology. Let’s connect to explore opportunities and collaborate on innovative projects!",
@@ -134,6 +134,15 @@ export const Bio = {
           image:
             "https://logosandtypes.com/wp-content/uploads/2020/10/figma.svg",
         },
+        {
+          name: "MATLAB",
+          image:
+            "https://logo-marque.com/wp-content/uploads/2020/12/MATLAB-Symbole.png",
+        }, {
+          name: "SIMULINK",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png",
+        },
       ],
     },
   ];
@@ -236,14 +245,22 @@ export const Bio = {
       desc: "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
       degree: "https://udemy-certificate.s3.amazonaws.com/image/UC-4ada407c-d09e-4f4e-b030-6b8dac79d858.jpg?v=1711695206000",
     },
-    // {
-    //   id: 7,
-    //   img: "https://udemy-certificate.s3.amazonaws.com/image/UC-4ada407c-d09e-4f4e-b030-6b8dac79d858.jpg?v=1711695206000",
-    //   school: "The Complete JavaScript Course 2024: From Zero to Expert!",
-    //   date: "March 2024",
-    //   desc: "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
-    //   degree: "https://udemy-certificate.s3.amazonaws.com/image/UC-4ada407c-d09e-4f4e-b030-6b8dac79d858.jpg?v=1711695206000",
-    // },
+    {
+      id: 7,
+      img: "https://udemy-certificate.s3.amazonaws.com/image/UC-4ada407c-d09e-4f4e-b030-6b8dac79d858.jpg?v=1711695206000",
+      school: "The Complete JavaScript Course 2024: From Zero to Expert!",
+      date: "March 2024",
+      desc: "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!",
+      degree: "https://udemy-certificate.s3.amazonaws.com/image/UC-4ada407c-d09e-4f4e-b030-6b8dac79d858.jpg?v=1711695206000",
+    },
+    {
+      id: 8,
+      img: "https://logowik.com/content/uploads/images/udemy-new-20212512.jpg",
+      school: "MATLAB/SIMULINK Bible | Go From Zero to Hero + ChatGPT!",
+      date: "Jan 2024",
+      desc: "Simulink is a powerful MATLAB-based tool used to design and simulate mechanical, electrical, electromechanical, and hydraulic systems using a large comprehensive drag and drop library.",
+      degree: "http://ude.my/UC-11ce81bd-cb4c-4393-a5aa-e0e3120cdcea",
+    },
   ];
   
   export const projects = [
@@ -371,10 +388,10 @@ export const Bio = {
       date: "Feb 2024",
       description:
         "A Matlab/Simulink simulation that shows how a DC Motor works. I have combined the theory with the modeling of a simulation through Simulink.",
-      image:"C:\Users\steve\OneDrive\PROGRAMMING\React-Portfolio\portfolio\src\images\dcmotor.jpg",
-      tags: ["Matlab", "Simulink"],
+      image:"file:///C:/Users/steve/OneDrive/PROGRAMMING/React-Portfolio/portfolio/src/images/dcmotor.jpg",
+      tags: ["MATLAB", "SIMULINK"],
       category: "android app",
-      github: "file:///C:/Users/steve/AppData/Local/Temp/mlreportgen/webview/webview.html",
+      github: "https://1drv.ms/i/s!AjD0pJXLc9H9u6EDrnQ8T6DQASGRKg?e=Vkrwc3"
     },
     {
       id: 5,
@@ -396,7 +413,7 @@ export const Bio = {
       description:
         "A simple PID controller and a simulation of an adaptive cruise control system.",
       image:
-        "C:\Users\steve\OneDrive\PROGRAMMING\React-Portfolio\portfolio\src\images\Tune.jpg",
+        "file:///C:/Users/steve/OneDrive/PROGRAMMING/React-Portfolio/portfolio/src/images/Tune.jpg",
       tags: ["MATLAB", "SIMULINK"],
       category: "web app",
       github: "file:///C:/Users/steve/AppData/Local/Temp/mlreportgen/webview/webview.html",
