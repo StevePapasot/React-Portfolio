@@ -415,7 +415,7 @@ export const Bio = {
       image:
         "file:///C:/Users/steve/OneDrive/PROGRAMMING/React-Portfolio/portfolio/src/images/Tune.jpg",
       tags: ["MATLAB", "SIMULINK"],
-      category: "web app",
+      category: "android app",
       github: "file:///C:/Users/steve/AppData/Local/Temp/mlreportgen/webview/webview.html",
     },
   //   {
