@@ -365,20 +365,17 @@ export const Bio = {
       github: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/Backdoor%20Project",
       webapp: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/Backdoor%20Project",
     },
-  //   {
-  //     id: 10,
-  //     title: "Job Finding App",
-  //     date: "Jun 2023 - Jul 2023",
-  //     description:
-  //       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-  //     image:
-  //       "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-  //     tags: ["React Native", "JavaScript", "Axios"],
-  //     category: "android app",
-  //     github: "https://github.com/rishavchanda/Job-finder-App",
-  //     webapp: "https://github.com/rishavchanda/Job-finder-App",
-  //   },
-  //   {
+    {
+      id: 10,
+      title: "DC Motor",
+      date: "Feb 2024",
+      description:
+        "A Matlab/Simulink simulation that shows how a DC Motor works. I have combined the theory with the modeling of a simulation through Simulink.",
+      image:"C:\Users\steve\OneDrive\PROGRAMMING\React-Portfolio\portfolio\src\images\dcmotor.jpg",
+      tags: ["Matlab", "Simulink"],
+      category: "android app",
+      github: "file:///C:/Users/steve/AppData/Local/Temp/mlreportgen/webview/webview.html",
+    },
     {
       id: 5,
       title: "Bruteforce",
@@ -392,19 +389,18 @@ export const Bio = {
       github: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/BruteForce",
       webapp: "https://github.com/StevePapasot/Ethical-Hacking-Python/tree/main/BruteForce",
     },
-  //   {
-  //     id: 6,
-  //     title: "Breaking Bad",
-  //     date: "Jun 2021",
-  //     description:
-  //       "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-  //     image:
-  //       "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-  //     tags: ["React Js", "API", "Axios", "Node JS"],
-  //     category: "web app",
-  //     github: "https://github.com/rishavchanda/Breaking-Bad",
-  //     webapp: "https://breaking-bad-webapp.netlify.app",
-  //   },
+    {
+      id: 6,
+      title: "Tune PID Controller",
+      date: "Jun 2024",
+      description:
+        "A simple PID controller and a simulation of an adaptive cruise control system.",
+      image:
+        "C:\Users\steve\OneDrive\PROGRAMMING\React-Portfolio\portfolio\src\images\Tune.jpg",
+      tags: ["MATLAB", "SIMULINK"],
+      category: "web app",
+      github: "file:///C:/Users/steve/AppData/Local/Temp/mlreportgen/webview/webview.html",
+    },
   //   {
   //     id: 7,
   //     title: "Quiz App",
