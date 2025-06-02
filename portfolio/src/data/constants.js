@@ -198,6 +198,14 @@ export const Bio = {
   
   export const education = [
     {
+      id: 9,
+      img: "C:\Users\steve\OneDrive\PROGRAMMING\React-Portfolio\portfolio\src\images\ecppt.jpeg",
+      school: "Certified Professional Penetration Tester",
+      date: "March 2025",
+      desc: " The certification involves in-depth penetration testing that simulates a real world scenario, requires you to prove your analytical skills with a thorough security write-up, and is hand-graded by a security professional. This intermediate level certification proves to employers and superiors alike that you have the knowledge necessary to run point on a host of penetration testing engagements.",
+      degree: "https://certs.ine.com/ba19a5d4-d560-4f39-ad89-e564dc9c25b5#acc.ox6GStWX",
+    },
+    {
       id: 0,
       img: "https://www.anodikiservices.gr/wp-content/uploads/2017/09/logo-aspaite-300x215.jpg",
       school: "ASPAITE",
