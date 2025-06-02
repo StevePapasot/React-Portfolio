@@ -148,6 +148,22 @@ export const Bio = {
   ];
   
   export const experiences = [
+       {
+      id: 0,
+      img: "https://kourtistech.gr/wp-content/uploads/2025/04/cropped-logo_kourtis_transparent_darkbg.png",
+      role: "Back Office Engineer",
+      company: "Kourtis Tech",
+      date: "March 2025 - Sept. 2025",
+      desc: "Worked as a Back Office Engineer at Kourtis Tech",
+      skills: [
+        "ERP",
+        "Back Office",
+        "Electrical Engineer",
+        "CRM",
+        "Pylon",
+        "MS Office",
+      ],
+    },
     {
       id: 0,
       img: "https://coreconcepts.design/wp-content/uploads/2023/06/Asset-8.png",
